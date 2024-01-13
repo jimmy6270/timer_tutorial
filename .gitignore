@@ -1,0 +1,12 @@
+*.su
+*.mk
+*.o
+*.bin
+*.htm
+*.elf
+*.axf
+*.map
+*.list
+*.d
+.metadata
+RemoteSystemsTempFiles
